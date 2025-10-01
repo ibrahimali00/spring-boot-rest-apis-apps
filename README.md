@@ -138,7 +138,7 @@ The database is simple yet effective, with a clear **one-to-many relationship** 
 - `user_id` (Foreign Key referencing `User.id`)
 
 📌 _Schema Diagram :_  
-![Database Schema](/images/hello.png)
+![Database Schema](/images/schema.png)
 
 This schema allows multiple todos per user and enforces ownership through foreign keys.
 
